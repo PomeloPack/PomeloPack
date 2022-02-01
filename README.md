@@ -4,12 +4,12 @@
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There!
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="30px/>
- </h1>
+</h1>
  <a href="https://twitter.com/PomeloPack">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
