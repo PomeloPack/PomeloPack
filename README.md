@@ -7,7 +7,7 @@
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey There!
+  Hey Stranger!
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="30px"/>
 </h1>
  <a href="https://twitter.com/PomeloPack">
