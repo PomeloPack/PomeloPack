@@ -5,6 +5,7 @@
 </div>
 
 <div id="badges">
+<img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
  <a href="https://twitter.com/PomeloPack">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
