@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
@@ -7,14 +7,14 @@
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey Stranger!
+  Hey stranger!
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="30px"/>
 </h1>
  <a href="https://twitter.com/PomeloPack">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=green" alt="Twitter Badge"/>
  </a>
  <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIN Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=green&style=for-the-badge" alt="LinkedIN Badge"/>
  </a>
 </div>
 
