@@ -5,10 +5,12 @@
 </div>
 
 <div id="badges">
+<img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
  <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIN Badge"/>
  </a>
 </div>
+
 
 
 
