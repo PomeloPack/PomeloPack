@@ -35,4 +35,4 @@
 - 💬 Ask me about anything what you need but there is 75% chance that I dunno how to answer, 20% lucky and 5% skill. 😄
 - 📫 How to reach me: On this e-mail -> santexD@seznam.cz <-
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race player.
--->
+--
