@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 I call myself  a  🥔 "potato-junior" 🥔 I am trying to learn and understand the principles of Python programming. And as you can expect, it's a lot of potato level for now but the important thing is to persevere! 👨‍💻
+### 👨‍💻 I call myself  a  🥔 "potato-junior" 🥔 I'm trying to learn and understand the principles of Python programming. And as you can expect, it's a lot of potato level for now but the important thing is to persevere! 👨‍💻
 
 
 - 🔭 I’m currently working on ...
