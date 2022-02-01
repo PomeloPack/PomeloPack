@@ -4,6 +4,10 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+ <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIN Badge"/>
+
 
 
 - 🔭 I’m currently working on ...
