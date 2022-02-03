@@ -47,5 +47,18 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="50" height="50"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats : 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PomeloPack&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=073F26D8&currStreakLabel=DD2727&fire=DD2727&currStreakNum=DD2727&dates=FFDA31)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PomeloPack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PomeloPack&theme=dark&show_icons=True)](https://github.com/PomeloPack/github-readme-stats)
+
+
  
  
