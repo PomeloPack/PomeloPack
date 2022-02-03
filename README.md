@@ -32,6 +32,6 @@
 - 🌱 I’m currently learning Python from the very basics to more advanced operations to data analytics, which I would like to do one day.
 - 👯 I’m looking to collaborate on anything what push my educating to the next level of my current knowledge.
 - 🤔 I’m looking for help with Linux, deep data code and SQL & I/O
-- 📫 How to reach me: On this e-mail -> santexD@seznam.cz <-
+- 📫 How to reach me: On this e-mail -> santexD@seznam.cz <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race player.
 --
