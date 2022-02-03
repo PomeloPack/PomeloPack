@@ -16,6 +16,8 @@
  </a>
  <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
   <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=green&style=for-the-badge" alt="LinkedIN Badge"/>
+ <a href="https://www.instagram.com/pomelo_skkrt_/">
+  <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=green&style=for-the-badge" alt="Instagram Badge"/>
  </a>
 </div>
 
