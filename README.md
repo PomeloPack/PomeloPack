@@ -34,4 +34,18 @@
 - 🤔 I’m looking for help with Linux, deep data code and SQL & I/O
 - 📫 How to reach me: On this e-mail -> santexD@seznam.cz <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race player.
---
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="50" height="50"/>&nbsp;
+</div>
+ 
+ 
