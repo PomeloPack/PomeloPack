@@ -31,7 +31,7 @@
 
 
 - 🔭 I'm currently working on my own projects to test all the Python skills I've gained. I'm trying to solve various exercises and challenges to improve the Python experience, and in addition to that I'm playing with my code buddy on various projects in our organization called "Hacker Ninjas"
-- 🌱 I’m currently learning Python, Linux, Windows and for the future I want to know more about SQL
+- 🌱 I’m currently learning Python, Linux, Windows and for the future I want to know more about SQL and I'm very interesting about Cyber Security
 - 👯 I’m looking to collaborate on anything what push my educating to the next level of my current knowledge.
 - 📫 How to reach me: On this e-mail -> santexD@seznam.cz <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race game-.player.
