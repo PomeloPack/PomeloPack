@@ -30,8 +30,8 @@
 ### 👨‍💻 I call myself  a  🥔 "potato-junior" 🥔 I'm trying to learn and understand the principles of Python programming. And as you can expect, it's a lot of potato level for now but the important thing is to persevere! 👨‍💻
 
 
-- 🔭 I'm currently working on my own projects to test all the Python skills I've gained. I'm trying to solve various exercises and challenges to improve the Python experience, and in addition to that I'm playing with my code buddy on various projects in our organization called "Hacker Ninjas"
-- 🌱 I’m currently learning Python, Linux, Windows and for the future I want to know more about SQL and I'm very interesting about Cyber Security
+- 🔭 I'm currently working on my own projects to test all the Python skills I've gained.
+- 🌱 After half a year dedicated to understanding Python I found fun with Cyber Security and networking on the Try Hack Me website and along with that I'm trying to understand more about Machine Learning with TensorFlow using Jupyter Notebook
 - 👯 I’m looking to collaborate on anything what push my educating to the next level of my current knowledge.
 - 📫 How to reach me: On this e-mail -> santexD@seznam.cz <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race game-.player.
