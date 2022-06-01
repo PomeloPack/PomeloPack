@@ -1,15 +1,15 @@
 
 
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+ <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200px"/>
 </div>
 
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
  Hey stranger!
-  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
 </h1>
  <a href="https://twitter.com/PomeloPack">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=green" alt="Twitter Badge"/>
