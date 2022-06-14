@@ -33,7 +33,7 @@
 - 🔭 I'm currently working on my own projects to test all the Python skills I've gained.
 - 🌱 After half a year dedicated to understanding Python I found fun with Cyber Security and networking on the Try Hack Me website and along with that I'm trying to understand more about Machine Learning with TensorFlow using Jupyter Notebook
 - 👯 I’m looking to collaborate on anything what push my educating to the next level of my current knowledge.
-- 📫 How to reach me: On this e-mail -> santexD@seznam.cz <- or on my LinkedIN account.
+- 📫 How to reach me: On this e-mail -> p0m3l0pack@gmail.com <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race game-.player.
 
 ---
