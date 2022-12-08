@@ -27,12 +27,12 @@
 
 ---
 
-### 👨‍💻 I call myself  a  🥔 "potato-junior" 🥔 I'm trying to learn and understand the principles of Python programming. And as you can expect, it's a lot of potato level for now but the important thing is to persevere! 👨‍💻
+### 👨‍💻  👨‍💻
 
 
-- 🔭 I'm currently working on my own projects to test all the Python skills I've gained.
-- 🌱 After half a year dedicated to understanding Python I found fun with WEB SCRAPING but at this time I'm focusing to my own projects and skilling myself with Python bootcamp
-- 👯 I’m looking to collaborate on anything what push my educating to the next level of my current knowledge.
+- 🔭 I'm currently working on 
+- 🌱 
+- 👯 I’m looking to collaborate 
 - 📫 How to reach me: On this e-mail -> p0m3l0pack@gmail.com <- or on my LinkedIN account.
 - ⚡ Fun fact: I'm downhill skateboarder and PC-master race game-player.
 
