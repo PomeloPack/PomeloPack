@@ -30,10 +30,10 @@
 ### 👨‍💻  👨‍💻
 
 
-- 🔭 I'm currently working as IT Tester in Zlin
+- 🔭 working...yes...
 - 🌱 
-- 👯 I’m looking to collaborate with any project included web-scrap, selenium 
-- 📫 How to reach me: On this e-mail -> p0m3l0pack@gmail.com <- or on my LinkedIN account.
+- 👯  
+- 📫 
 
 ---
 
