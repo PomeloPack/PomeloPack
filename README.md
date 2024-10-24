@@ -9,6 +9,8 @@
 <h1>
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
  Hey stranger!
+
+ git push --force origin BIO
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
 </h1>
  <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
