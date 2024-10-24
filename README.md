@@ -7,9 +7,7 @@
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=PomeloPack-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
- Hey stranger!
-
+  <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/
  git push --force origin BIO
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
 </h1>
