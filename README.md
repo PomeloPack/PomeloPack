@@ -26,7 +26,7 @@
 
 ---
 
-### 👨‍💻  👨‍💻
+### 
 
 podman play kube --start BIO.1.0.rpm
 
