@@ -29,7 +29,9 @@
 podman play kube --start BIO.1.0.rpm
 
 Copying blob 85c8bc1389d1 [=====>--------------------------------] 27.7MiB / 189.0MiB | 55.7 MiB/s
+
 Copying blob 455b64a5eef9 [====>---------------------------------] 1.2MiB / 8.8MiB | 61.4 MiB/s
+
 Copying blob 775d222e837a done   |
 Writing manifest to image destination
 Pod:
