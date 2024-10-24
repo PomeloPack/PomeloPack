@@ -43,6 +43,7 @@ af89edf315b661706af6f69507cc5c44d45ebebd6167987109186dc117cd03e1
 
 cd /home/p0m3l0
 cat BIO_cz.txt
+
 Ahoj ! Jsem Martin a 2 roky pracuju jako OPS/IT admin ve Zlíně. Do IT jsem se dostal přes kódovačku, ale poté co jsem v něm začal pracovat jsem zjistil, že mě víc bere cesta DevOps. Baví me trávit hodiny v command line, řešit bugy z appek, updatovat je, divoce k0ntEjnErIzOvAt a k tomu delat sub scripty a automatizace v pythonu. Jo jasně, že ve VIMu.
 
 Věci ve kterých jsem asi cool, protože v nich dělám denně:
@@ -65,6 +66,7 @@ Tady na GIT-Hubu toho moc nemám, protože mám všechno privat ( a jasně je to
 cat BIO_eng.txt
 
 cd /home/p0m3l0
+
 cat BIO_cz.txt
 Hello! I am Martin and I have been working as an OPS/IT admin in Zlín for 2 years. I got into IT through coding, but after I started working there, I found that I was more drawn to the DevOps path. I enjoy spending hours in the command line, solving bugs from apps, updating them, wildly containeRIZZ and doing sub scripts and automation in python. Yes, of course, in VIM.
 
