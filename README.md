@@ -33,6 +33,51 @@ dnf update BIO.1.0.rpm
 
 [100%] [............................................................] [   5.7MB/s] [00:01]
 
+cd /home/p0m3l0
+cat BIO_cz.txt
+Ahoj ! Jsem Martin a 2 roky pracuju jako OPS/IT admin ve Zlíně. Do IT jsem se dostal přes kódovačku, ale poté co jsem v něm začal pracovat jsem zjistil, že mě víc bere cesta DevOps. Baví me trávit hodiny v command line, řešit bugy z appek, updatovat je, divoce k0ntEjnErIzOvAt a k tomu delat sub scripty a automatizace v pythonu. Jo jasně, že ve VIMu.
+
+Věci ve kterých jsem asi cool, protože v nich dělám denně:
+
+Windows | Linux
+Python | SQL | Bash
+Nginx | Monitoring –
+Grafana/Kibana/Prometheus/Zabbix
+Docker | Podman
+Git-hub/lab | Postman 
+Testováníčko | Rest-APIs
+Angličtina - jako jazyk | Komunikace - ústy i přes klávesinci
+Sólo | Týmová práce
+Jira | Confuence <- vopruz 
+
+Reálně se starám o to aby vše fungovalo a baví mě to, je to sranda.
+
+Tady na GIT-Hubu toho moc nemám, protože mám všechno privat ( a jasně je to z toho důvodu, že toho mám milion a vše je rozpracováno dle toho jak jsem to potřeboval ! :D )
+
+cat BIO_eng.txt
+
+cd /home/p0m3l0
+cat BIO_cz.txt
+Hello! I am Martin and I have been working as an OPS/IT admin in Zlín for 2 years. I got into IT through coding, but after I started working there, I found that I was more drawn to the DevOps path. I enjoy spending hours in the command line, solving bugs from apps, updating them, wildly c0ntEjnErIzOvAt and doing sub scripts and automation in python. Yes, of course, in VIM.
+
+Things I'm probably cool with because I do them daily:
+
+Windows | Linux
+Python | SQL | Bash
+Nginx | Monitoring –
+Grafana/Kibana/Prometheus/Zabbix
+Docker | Subdued
+Git-hub/lab | Postman
+Testing | Rest API
+English - as a language | Communication - mouth and keyboard
+Solo | Teamwork
+Jira | Confuence <- harness
+
+I really make sure that everything works and I enjoy it, it's fun.
+
+I don't have much here on GIT-Hub, because I have everything private (and of course it's for the reason that I have a million and everything is developed according to how I needed it! :D )
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
