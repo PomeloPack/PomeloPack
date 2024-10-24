@@ -26,11 +26,11 @@
 
 ### 👨‍💻  👨‍💻
 
-dnf update BIO.1.0.rpm
+podman play kube --start BIO.1.0.rpm
 
-[100%] [............................................................] [   5.7MB/s] [00:01]
-
-Copying config 41b8a38ef0 done   |
+Copying blob 85c8bc1389d1 [=====>--------------------------------] 27.7MiB / 189.0MiB | 55.7 MiB/s
+Copying blob 455b64a5eef9 [====>---------------------------------] 1.2MiB / 8.8MiB | 61.4 MiB/s
+Copying blob 775d222e837a done   |
 Writing manifest to image destination
 Pod:
 6e00ab83b1e292e300f9d124d6bebb1960ccfe2061dafd055844be6f452b4e6d
