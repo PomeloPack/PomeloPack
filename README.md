@@ -33,6 +33,14 @@ dnf update BIO.1.0.rpm
 
 [100%] [............................................................] [   5.7MB/s] [00:01]
 
+Copying config 41b8a38ef0 done   |
+Writing manifest to image destination
+Pod:
+6e00ab83b1e292e300f9d124d6bebb1960ccfe2061dafd055844be6f452b4e6d
+Containers:
+af89edf315b661706af6f69507cc5c44d45ebebd6167987109186dc117cd03e1
+
+
 cd /home/p0m3l0
 cat BIO_cz.txt
 Ahoj ! Jsem Martin a 2 roky pracuju jako OPS/IT admin ve Zlíně. Do IT jsem se dostal přes kódovačku, ale poté co jsem v něm začal pracovat jsem zjistil, že mě víc bere cesta DevOps. Baví me trávit hodiny v command line, řešit bugy z appek, updatovat je, divoce k0ntEjnErIzOvAt a k tomu delat sub scripty a automatizace v pythonu. Jo jasně, že ve VIMu.
