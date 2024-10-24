@@ -11,9 +11,6 @@
  Hey stranger!
   <img src="https://media.giphy.com/media/3o7aDcc6DvLOfGPeM0/giphy.gif" width="50"/>
 </h1>
- <a href="https://twitter.com/p0m3l0pack">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=green" alt="Twitter Badge"/>
- </a>
  <a href="https://www.linkedin.com/in/martin-holomek-10a435226/">
   <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=green&style=for-the-badge" alt="LinkedIN Badge"/>
  <a href="https://www.instagram.com/pomelo_skkrt_/">
